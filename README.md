@@ -1,6 +1,6 @@
 # DIGITAL LITERACY PROJECT REPORT
 
-## Title Page
+## PERSONAL INFORMATION
 
 Name: Shakti Kumar Chaturvedi
 Regn. no. :25BCE11229
