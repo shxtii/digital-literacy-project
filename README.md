@@ -12,7 +12,7 @@ Date: 27-03-2026
 
 ---
 
-## Introduction (100–150 words)
+## Introduction
 
 This design focuses on erecting a strong foundation in digital knowledge, which is essential in moment’s technology- driven world. As a Pupil Digital Ambassador, the end was to understand and demonstrate the significance of digital chops, safe online geste , and professional communication. The design includes tasks similar as creating an infographic, erecting a digital portfolio, exploring online platforms, rehearsing dispatch form, and understanding cybercrime mindfulness. Each task helped in developing practical knowledge and mindfulness needed for academic and professional growth. Overall, this design enhanced my capability to use digital tools effectively and responsibly.
 
@@ -93,12 +93,22 @@ This project demonstrates digital literacy skills including infographic creation
 * Task 4: Wrote professional emails & checklist
 * Task 5: Created cybercrime case study & prevention tips
 
-### Google Form Link
-
-https://forms.gle/ozydhoRfTHeSEtxbA
-
 ---
 
+### Important Links
+
+Google Form Link: https://forms.gle/ozydhoRfTHeSEtxbA
+GitHub Profile: https://github.com/shxtii
+LinkedIn: https://linkedin.com/in/shxtii
+Kaggle: https://www.kaggle.com/shxtii
+
+
+---
+## Summary
+
+This project helped me understand how digital skills are important in student life and how they can be used in academics and future career development
+
+---
 # FOLDER CHECKLIST
 
 ✔ task-1-presentation → infographic image
